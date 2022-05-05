@@ -49,7 +49,7 @@ export default function Dropdown() {
     };
 
     return (
-        <div>
+        <div className="center">
             <form onSubmit={Submit}>
     {selectNames.map((name, index) => {
         return (
