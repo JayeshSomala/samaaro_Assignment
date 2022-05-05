@@ -1,0 +1,10 @@
+*{
+    align-items: center;
+}
+.select{
+    padding:10px;
+    /* display:flex; */
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+}
