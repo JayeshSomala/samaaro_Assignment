@@ -18,7 +18,7 @@ export default function Dropdown() {
         },
         {
             label: 'D',
-            value: 'option4'
+            value: 'D'
         }
     ]);
     
